@@ -9,3 +9,8 @@ FavorWeb teknik açıdan küçük ve basit olmak ile birlikte güzel bir fikir i
 
 
 FavorWeb : Basit olarak iki kısımdan oluşmaktadır. Kullananıcıların gördüğü bir form sayfası ve form kayıtlarını listeleyen bir yönetici sayfasından oluşmaktadır. Kullanıcılar form üzerinden iletişim bilgilerini girerek bağış yapmak veya bağış kabul etmek istediklerini belirttikten sonra mesaj kısmına bağış ile ilgili detayı girmektedir. Yönetici ise kullanıcıların doldurduğu form kayıtlarını sayfada görerek onlarla iletişime geçmektedir. Kısaca FavorWeb yardımlaşmak isteyenlere yardımı ve bağışların organize edilerek, daha fazla kişiye ulaşmak içinde interneti kullanmayı amaçlamaktadır.
+
+![Form](form.png)
+
+
+![Liste](liste.png)
