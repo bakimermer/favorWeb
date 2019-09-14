@@ -1,5 +1,5 @@
 # favorWeb
-Yardımlaşma Ağı Kurmanın En Kolay Yolu
+Yardımlaşma Ağı Kurmanın En Kolay Yolu...
 
 
 
