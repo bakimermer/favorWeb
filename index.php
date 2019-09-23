@@ -6,7 +6,7 @@
 		if ($yaz) {
 			echo "Başaralı";
 		} else {
-			echo "Başarısız...";
+			echo "Başarısız.,.";
 		}
 	}
 ?>
